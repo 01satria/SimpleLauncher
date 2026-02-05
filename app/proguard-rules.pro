@@ -1,0 +1,3 @@
+-keep class com.example.simplelauncher.** { *; }
+-dontwarn okio.**
+-dontwarn javax.annotation.**
